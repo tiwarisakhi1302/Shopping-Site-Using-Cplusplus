@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619463582 source:c:\users\hp\desktop\sdf lab project sem 2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+
